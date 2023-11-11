@@ -4,7 +4,7 @@ This is a simple workflow to create a Jekyll post with Front Matter. I use it to
 
 ## How to configure
 
-1. Download the `.alfredworkflow` file.
+1. Download the `.alfredworkflow` file for your Alfred's version.
 2. Double click it to add it to your workflows. Set the correct destinantion path.
 3. Edit the `vpost` step to add your own categories.
 4. Edit the `Open file` step to set a default markdown editor.
@@ -20,7 +20,7 @@ In the Alfred's Search bar, type `post` and the article's title.
 post Money can buy happiness
 ```
 
-Then select a category. This field auto-completes as you type. To display all available categories, press spacebar.
+Then select a category. This field auto-completes as you type. In Alfred 4, tap spacebar to display all available categories.
 
 
 ## Support multiple blogs
