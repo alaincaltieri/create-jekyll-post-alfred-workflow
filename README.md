@@ -1,6 +1,6 @@
 # Create Jekyll Post -- A Simple Alfred Workflow
 
-This is a simple workflow to create a Jekyll post with Front Matter. I use it to write new posts for [Your Financial Fallacies](https://financialfallacies.com/){:target="_blank"}.
+This is a simple workflow to create a Jekyll post with Front Matter. I use it to write new posts for [Your Financial Fallacies](https://financialfallacies.com/).
 
 ## How to use
 
@@ -21,6 +21,6 @@ Of course, change the proper parameters as explained in How to use.
 ## Credits
 
 The starting point for this workflow is the **Simple To-Do List** Example in Alfred.
-Default images and categories are from [Your Financial Fallacies](https://financialfallacies.com/){:target="_blank"}. 
+Default images and categories are from [Your Financial Fallacies](https://financialfallacies.com/). 
 
 You can use this work as you like.
